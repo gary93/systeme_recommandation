@@ -21,3 +21,15 @@ source("installation_packages.R")
 # A executer dans un terminal R
 source("main.R")
 ```
+
+## Résultat attendu
+
+A noter que ces résultats ont été fait à partir de 2 types d'analyse sentimentale qui sont:
+
+- Bing
+- Nrc
+
+<p align="center">
+  <img src="img/score_revue.png"
+  alt="Score revue"/>
+</p>
