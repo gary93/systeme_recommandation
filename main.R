@@ -14,8 +14,8 @@ fichier_dataset = "dataset.json"
 print("Importation du dataset")
 donnees <- stream_in(file(fichier_dataset))
 
-print("Récupération des 10000 premiers échantillons")
-echantillon_donnees <- donnees[10000,]
+print("Récupération de 10000 échantillons aléatoire")
+echantillon_donnees <- donnees[sample(nrow(donnees), 10000), ]
 
 print("Analyse des critiques sentimentales")
 echantillon_donnees$reviewText <- as.character(echantillon_donnees $reviewText)
