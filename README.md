@@ -15,7 +15,7 @@ python3 recuperation_dataset.py
 source("main.R")
 ```
 
-## Résultat attendu
+## Résultats attendu
 
 A noter que ces résultats ont été fait à partir de 2 types d'analyse sentimentale qui sont:
 
