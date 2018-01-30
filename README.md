@@ -26,3 +26,13 @@ A noter que ces résultats ont été fait à partir de 2 types d'analyse sentime
   <img src="img/score_revue.png"
   alt="Score revue"/>
 </p>
+
+<p align="center">
+  <img src="img/Rplot.png"
+  alt="Recommandation 1"/>
+</p>
+
+<p align="center">
+  <img src="img/Rplot01.png"
+  alt="Recommandation 2"/>
+</p>
